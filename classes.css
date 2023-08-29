@@ -1,0 +1,32 @@
+.h1 {
+    font-family: cursive;
+}
+
+.img-size {
+    width: auto;
+    height: auto;
+}
+
+.carousel-indicators .active {
+    background-color: rgb(255, 255, 255);
+}
+
+.carousel-indicators li {
+    background-color: rgb(247, 175, 80);
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+}
+
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+.wrap {
+    font-style: inherit;
+    word-wrap: inherit;
+    -ms-word-wrap: inherit;
+    word-break: inherit;
+}
+
